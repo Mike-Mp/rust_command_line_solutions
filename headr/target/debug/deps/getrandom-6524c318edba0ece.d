@@ -1,0 +1,11 @@
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/headr/target/debug/deps/getrandom-6524c318edba0ece.rmeta: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/linux_android.rs
+
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/headr/target/debug/deps/getrandom-6524c318edba0ece.d: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/linux_android.rs
+
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/linux_android.rs:

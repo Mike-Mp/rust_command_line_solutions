@@ -1,0 +1,11 @@
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/catr/target/debug/deps/os_str_bytes-935f198ec9c5f381.rmeta: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/catr/target/debug/deps/os_str_bytes-935f198ec9c5f381.d: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs:

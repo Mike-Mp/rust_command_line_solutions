@@ -1,0 +1,13 @@
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/catr/target/debug/deps/indexmap-98100d0ed243e0ee.rmeta: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/home/mikemp/projects/command_line_rust/rust_command_line_solutions/catr/target/debug/deps/indexmap-98100d0ed243e0ee.d: /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs:
+/home/mikemp/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs:
