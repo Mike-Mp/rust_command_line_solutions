@@ -33,12 +33,15 @@ pub fn get_args() -> MyResult<Config> {
             Arg::new("files")
             .takes_value(true)
             .default_value("-")
-            .required(true)
         )
         .get_matches();
 
+    let lines = matches.value_of("lines").unwrap()
+        .parse_positive_int()
+        .map_err(|e| println!("{}", e));
+
     return Ok(Config {
-        files: vec!["one".to_string(), "two".to_string()],
+        files: matches.value_of("files").unwrap(),
         lines: 10,
         bytes: std::option::Option::Some(1),
     })
