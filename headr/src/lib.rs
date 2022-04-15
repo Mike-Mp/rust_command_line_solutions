@@ -19,6 +19,7 @@ pub fn get_args() -> MyResult<Config> {
             Arg::new("lines")
             .short('n')
             .long("lines")
+            .value_name("LINES")
             .default_value("10")
             .conflicts_with("bytes")
             .takes_value(true)
@@ -26,24 +27,34 @@ pub fn get_args() -> MyResult<Config> {
         .arg(
             Arg::new("bytes")
             .short('c')
+            .value_name("BYTES")
             .long("bytes")
             .takes_value(true)
         )
         .arg(
             Arg::new("files")
+            .value_name("FILE")
+            .allow_invalid_utf8(true)
             .takes_value(true)
+            .multiple_values(true)
             .default_value("-")
         )
         .get_matches();
+    
+    let lines = matches.value_of("lines")
+    .map(parse_positive_int)
+    .transpose()
+    .map_err(|e| format!("illegal line count -- {}", e))?;
 
-    let lines = matches.value_of("lines").unwrap()
-        .parse_positive_int()
-        .map_err(|e| println!("{}", e));
+    let bytes = matches.value_of("bytes")
+    .map(parse_positive_int)
+    .transpose()
+    .map_err(|e| format!("illegal byte count -- {}", e))?;
 
     return Ok(Config {
-        files: matches.value_of("files").unwrap(),
-        lines: 10,
-        bytes: std::option::Option::Some(1),
+        files: matches.values_of_lossy("files").unwrap(),
+        lines: lines.unwrap(),
+        bytes
     })
 }
 
